@@ -1,6 +1,7 @@
 ---
+layout: archive
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jinyang Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +9,77 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Personal information
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Beijing Institutes of Life Sciences
+* Chinese Academy of Sciences
+* No.1 Beichen West Road
+* Chaoyang District, Beijing, 100101, P.R. China
+* Email: zhangjinyang[at]biols.ac.cn
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**ORCID**: [0000-0002-5163-894X](https://orcid.org/0000-0002-5163-894X)
+**Web of Science**: [AFS-9879-2022](https://www.webofscience.com/wos/author/record/AFS-9879-2022)
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* 09/2011-06/2015  <b>B.S.</b>, Life Sciences
+  * School of Life Sciences
+  * Peking University, P.R. China
+* 09/2015-06/2021  <b>Ph.D.</b>, Genetics (with honors),
+  * Beijing Institutes of Life Sciences (College of Life Sciences)
+  * Chinese Academy of Sciences, P.R. China
+  * Supervisor: Prof. Fangqing Zhao
+  * Dissertion: Accurate quantification and reconstruction of circular RNAs using high-throughput sequencing data
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Work experience
+======
+* 09/2021-07/2023  <b>Post-Doctoral Associate</b>
+  * Computational Genomics Lab, Beijing Institutes of Life Science
+  * Chinese Academy of Sciences, P.R. China
+  * Supervisor: Prof. Fangqing Zhao
+  * Special Research Assistant funded projects, Chinese Academy of Sciences
+  * China National Postdoctoral Program for Innovative Talents
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Awards & Honors
+======
+* 2022 Excellent Doctoral Thesis, Beijing
+* 2022 Excellent Doctoral Thesis, Chinese Academy of Sciences
+* 2021 CAS President Scholarship (Special Prize), Chinese Academy of Sciences
+* 2021 Pacemaker to Merit Student, University of Chinese Academy of Sciences
+* 2019 Zhuliyuehua Outstanding Doctoral Award, Chinese Academy of Sciences
+* 2019 Merit Student, University of Chinese Academy of Sciences
+* 2017 Merit Student, University of Chinese Academy of Sciences
 
-**Markdown generator**
+Publications
+======
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+(# indicates co first authors, *corresponding authors)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+14.	Hou, L.#, **Zhang, J.#*** & Zhao, F.* (2023). [Full-length circular RNA profiling by nanopore sequencing with CIRI-long](https://rdcu.be/c9KAb). ***Nature protocol*** (**IF=17.021**) DOI: [10.1038/s41596-023-00815-w](https://doi.org/10.1038/s41596-023-00815-w)
+13.	Deshpande, D.#, Chhugani, K.#, Chang, Y., Karlsberg, A., Loeffler, C., **Zhang, J.**, Muszynska, A., Rotman, J., Tao, L., Martin, L. S., Balliu, B., Tseng, E., Eskin, E., Zhao, F., Mohammadi, P., Labaj, P. P., & Mangul, S. (2023). RNA-seq data science: From raw data to effective interpretation. ***Frontiers in Genetics*** (**IF=4.772**) DOI: [10.3389/fgene.2023.997383](https://doi.org/10.3389/fgene.2023.997383)
+12.	Wu. W.#, **Zhang, J.#**, & Zhao, F. (2022). Exploring the cellular landscape of circular RNAs using full-length single-cell RNA sequencing. ***Nature Communications***, 13, 3242. (**IF=17.694**) DOI: [10.1038/s41467-022-30963-8](https://doi.org/10.1038/s41467-022-30963-8)
+11.	Yang, J.#, Hou, L.#, Wang, J.#, Xiao, L., **Zhang, J.**, Yin, N., Wei, Y., Yao, Su., Cheng, K., Zhang, W., Shi, Z., Wang, J., Jiang, H., Huang, N., You, Y., Lin, M., Shang, R., Zhao, Y.* & Zhao, F.* (2022). Unfavourable intrauterine environment contributes to abnormal gut microbiome and metabolome in twins. ***Gut***, 71:2451-2462. (**IF=31.379**) DOI: [10.1136/gutjnl-2021-326482](https://doi.org/10.1136/gutjnl-2021-326482)
+10.	Chen, S.#, Cao, X.#, **Zhang, J.#**, Wu, W., Zhang, B. & Zhao, F. (2022). circVAMP3 drives CAPRIN1 phase separation and inhibits hepatocellular carcinoma by suppressing c-Myc translation. ***Advanced Science***, 9(8): e2103817. (**IF=17.521**) DOI: [10.1002/advs.202103817](https://doi.org/10.1002/advs.202103817)
+9. Chen, S.#, **Zhang, J.#**, & Zhao, F. (2022). Screening linear and circular RNA transcripts from stress granules. ***Genomics, Proteomics & Bioinformatics***, (**IF=6.409**) DOI: [10.1016/j.gpb.2022.01.003](https://doi.org/10.1016/j.gpb.2022.01.003)
+8. **Zhang, J.** & Zhao, F. (2021). Characterizing circular RNAs using nanopore sequencing. ***Trends in Biochemical Sciences***. 46, 785–786 (**IF=14.264**) DOI: [10.1016/j.tibs.2021.06.002](https://doi.org/10.1016/j.tibs.2021.06.002)
+7. **Zhang, J.** & Zhao, F. (2021). Reconstruction of circular RNAs using Illumina and Nanopore RNA-seq datasets. ***Methods*** 196, 17–22 (**IF=3.608**) DOI: [10.1016/j.ymeth.2021.03.017](https://doi.org/10.1016/j.ymeth.2021.03.017)
+6. **Zhang, J.#**, Hou, L.#, Zuo, Z.#, Ji, P., Zhang, X., Xue, Y. & Zhao, F. (2021). Comprehensive profiling of circular RNAs with nanopore sequencing and CIRI-long. ***Nature Biotechnology***, 39, 836–845. (**IF=68.164**) DOI: [10.1038/s41587-021-00842-6](https://doi.org/10.1038/s41587-021-00842-6)
+    - News & Views: [Circular RNAs sequenced at last](https://www.nature.com/articles/s41587-021-00916-5). ***Nature Biotechnology***, 39, 811–812 (2021).
+	- Recommended by [2021 Top 10 Advances in Bioinformatics in China](http://gpb.big.ac.cn/news/1015), ***Genomics, Proteomics & Bioinformatics***
+5. Li, X.#, Zheng, J.#, Ma, X.#, Zhang, B., **Zhang, J.**, Wang, W., Sun, C., Wang, Y., Zheng, J., Chen, H., Tao, J., Wang, H., Zhang, F., Wang, J., & Zhang, H. (2021). The Oral Microbiome of Pregnant Women Facilitates Gestational Diabetes Discrimination. ***Journal of Genetics and Genomics***, 48, 32–39 (**IF=4.275**) DOI: [10.1016/j.jgg.2020.11.006](https://doi.org/10.1016/j.jgg.2020.11.006)
+4. **Zhang, J.**, Chen, S., Yang, J., & Zhao, F. (2020). Accurate quantification of circular RNAs identifies extensive circular isoform switching events. ***Nature Communications***, 11(1), 90. (**IF=17.694**) DOI: [10.1038/s41467-019-13840-9](https://doi.org/10.1038/s41467-019-13840-9)
+    - Recommended by [2020 Top 10 Advances in Bioinformatics in China](http://gpb.big.ac.cn/news/1014), ***Genomics, Proteomics & Bioinformatics***
+3. Ji, P.#, Wu, W.#, Chen, S.#, Zheng, Y., Zhou, L., **Zhang, J.**, Cheng, H., Yan, J., Zhang, S., Yang, P., & Zhao, F. (2019). Expanded Expression Landscape and Prioritization of Circular RNAs in Mammals. ***Cell Reports***, 26(12), 3444–3460.e5. (**IF=9.995**) DOI: [10.1016/j.celrep.2019.02.078](https://doi.org/10.1016/j.celrep.2019.02.078)
+2. Gao, Y., **Zhang, J.**, & Zhao, F. (2018). Circular RNA identification based on multiple seed matching. ***Briefings in Bioinformatics***, 19(5), 803–810. (**IF=13.994**) DOI: [10.1093/bib/bbx014](https://doi.org/10.1093/bib/bbx014)
+1. Gao, Y.#, Wang, J.#, Zheng, Y.#, **Zhang, J.**, Chen, S., & Zhao, F. (2016). Comprehensive identification of internal structure and alternative splicing events in circular RNAs. ***Nature Communications***, 7, 12060. (**IF=17.694**) DOI: [10.1038/ncomms12060](https://doi.org/10.1038/ncomms12060)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Invited Talks & Conference Presentations
+======
+* 2021 The 11th youth forum of national symposium of Chinese RNA society. July 2-5th. Dalian, China (Invited talk)
+* 2019 The 1st National Postgraduate Forum of Basic Medicine held by the Savaid Medical School, University of Chinese Academy of Sciences. November 30th. Beijing, China (Invited talk)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Journal Reviewer
+======
+* ***Briefings in Bioinformatics***
+* ***Genomics Proteomics and Bioinformatics***
+* ***mLife***
