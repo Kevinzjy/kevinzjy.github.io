@@ -11,6 +11,8 @@ redirect_from:
 
 Personal information
 ======
+
+* Computational Genomics Lab, Beijing Institutes of Life Science (BIOLS)
 * Beijing Institutes of Life Sciences
 * Chinese Academy of Sciences
 * No.1 Beichen West Road
@@ -35,7 +37,7 @@ Work experience
   * Supervisor: Prof. Fangqing Zhao
   * Special Research Assistant funded projects, Chinese Academy of Sciences
   * China National Postdoctoral Program for Innovative Talents
-* 07/2023-now      <b>Associate research fellow</b>
+* 07/2023-now      <b>Associate Research Fellow</b>
   * Computational Genomics Lab, Beijing Institutes of Life Science
   * Chinese Academy of Sciences, P.R. China
 
@@ -56,8 +58,8 @@ Publications
 
 (# indicates co first authors, *corresponding authors)
 
-15.	Vromman, M.#, Anckaert, J., Bortoluzzi, S, Buratin, A., Chen, C., Chu, Q., Chuang, T., Dehghannasiri, R., Dieterich, C., Dong, X., Flicek, P., Gaffo, E., Gu, W., He, C., Hoffmann, S., Izuogu, O., Jackson, M., Jakobi, T., Lai, E., Nuytens, J., Salzman, J., Santibanez-Koref, M., Stadler, P., Thas, O., Eynde, E., Verniers, K., Wen, G., Westholm, J., Yang, L., Ye, C., Yigit, N., Yuan, G., **Zhang, J.**, Zhao, F., Volders, P.*, Vandesompele, J.* (2023) Large-scale benchmarking of circRNA detection tools reveals large differences in sensitivity but not in precision. ***Nature Methods*** (**IF=48.0**) [[DOI]](https://doi.org/10.1038/s41592-023-01944-6) [[Shareable link]](https://rdcu.be/dgL3h)
-14.	Hou, L.#, **Zhang, J.#*** & Zhao, F.* (2023). Full-length circular RNA profiling by nanopore sequencing with CIRI-long. ***Nature protocol*** (**IF=14.8**) [[DOI]](https://doi.org/10.1038/s41596-023-00815-w) [[Shareable link]](https://rdcu.be/c9KAb)
+15.	Vromman, M.#, Anckaert, J., Bortoluzzi, S, Buratin, A., Chen, C., Chu, Q., Chuang, T., Dehghannasiri, R., Dieterich, C., Dong, X., Flicek, P., Gaffo, E., Gu, W., He, C., Hoffmann, S., Izuogu, O., Jackson, M., Jakobi, T., Lai, E., Nuytens, J., Salzman, J., Santibanez-Koref, M., Stadler, P., Thas, O., Eynde, E., Verniers, K., Wen, G., Westholm, J., Yang, L., Ye, C., Yigit, N., Yuan, G., **Zhang, J.**, Zhao, F., Volders, P.*, Vandesompele, J.* (2023) Large-scale benchmarking of circRNA detection tools reveals large differences in sensitivity but not in precision. ***Nature Methods*** (**IF=48.0**) [[DOI]](https://doi.org/10.1038/s41592-023-01944-6) [[SharedIt]](https://rdcu.be/dgL3h)
+14.	Hou, L.#, **Zhang, J.#*** & Zhao, F.* (2023). Full-length circular RNA profiling by nanopore sequencing with CIRI-long. ***Nature protocol*** (**IF=14.8**) [[DOI]](https://doi.org/10.1038/s41596-023-00815-w) [[SharedIt]](https://rdcu.be/c9KAb)
 13.	Deshpande, D.#, Chhugani, K.#, Chang, Y., Karlsberg, A., Loeffler, C., **Zhang, J.**, Muszynska, A., Rotman, J., Tao, L., Martin, L. S., Balliu, B., Tseng, E., Eskin, E., Zhao, F., Mohammadi, P., Labaj, P. P., & Mangul, S. (2023). RNA-seq data science: From raw data to effective interpretation. ***Frontiers in Genetics*** (**IF=3.7**) [[DOI]](https://doi.org/10.3389/fgene.2023.997383)
 12.	Wu. W.#, **Zhang, J.#**, & Zhao, F. (2022). Exploring the cellular landscape of circular RNAs using full-length single-cell RNA sequencing. ***Nature Communications***, 13, 3242. (**IF=16.6**) [[DOI]](https://doi.org/10.1038/s41467-022-30963-8) [[GitHub]](https://github.com/bioinfo-biols/Code_for_circSC)
 11.	Yang, J.#, Hou, L.#, Wang, J.#, Xiao, L., **Zhang, J.**, Yin, N., Wei, Y., Yao, Su., Cheng, K., Zhang, W., Shi, Z., Wang, J., Jiang, H., Huang, N., You, Y., Lin, M., Shang, R., Zhao, Y.* & Zhao, F.* (2022). Unfavourable intrauterine environment contributes to abnormal gut microbiome and metabolome in twins. ***Gut***, 71:2451-2462. (**IF=24.5**) [[DOI]](https://doi.org/10.1136/gutjnl-2021-326482)
