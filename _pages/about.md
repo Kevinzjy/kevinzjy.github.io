@@ -17,9 +17,6 @@ Personal information
 * Chaoyang District, Beijing, 100101, P.R. China
 * Email: zhangjinyang[at]biols.ac.cn
 
-**ORCID**: [0000-0002-5163-894X](https://orcid.org/0000-0002-5163-894X)
-**Web of Science**: [AFS-9879-2022](https://www.webofscience.com/wos/author/record/AFS-9879-2022)
-
 Education
 ======
 * 09/2011-06/2015  <b>B.S.</b>, Life Sciences
@@ -53,6 +50,8 @@ Awards & Honors
 Publications
 ======
 
+**Web of Science**: [AFS-9879-2022](https://www.webofscience.com/wos/author/record/AFS-9879-2022)
+
 (# indicates co first authors, *corresponding authors)
 
 14.	Hou, L.#, **Zhang, J.#*** & Zhao, F.* (2023). [Full-length circular RNA profiling by nanopore sequencing with CIRI-long](https://rdcu.be/c9KAb). ***Nature protocol*** (**IF=17.021**) DOI: [10.1038/s41596-023-00815-w](https://doi.org/10.1038/s41596-023-00815-w)
@@ -80,6 +79,5 @@ Invited Talks & Conference Presentations
 
 Journal Reviewer
 ======
-* ***Briefings in Bioinformatics***
-* ***Genomics Proteomics and Bioinformatics***
-* ***mLife***
+
+Reviewers of ***Briefings in Bioinformatics***, ***Genomics Proteomics and Bioinformatics***, ***mLife***

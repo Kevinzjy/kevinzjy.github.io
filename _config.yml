@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Jinyang Zhang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Researcher at Beijing Institutes of Life Science, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Zhang+J&cauthor_id=31900416"
   googlescholar    : "https://scholar.google.com/citations?user=r4zO_RwAAAAJ&hl=en"
-  email            : "zhangjinyang[at]biols.ac.cn"
+  email            : "zhangjinyang@biols.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Jinyang-Zhang-3"
   uri              :
   bitbucket        :
