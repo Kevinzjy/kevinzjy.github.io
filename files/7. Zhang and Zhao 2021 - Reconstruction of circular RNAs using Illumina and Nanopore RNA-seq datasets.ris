@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - Reconstruction of circular RNAs using Illumina and Nanopore RNA-seq datasets
+AU  - Zhang, Jinyang
+AU  - Zhao, Fangqing
+JO  - Methods
+VL  - 196
+SP  - 17
+EP  - 22
+PY  - 2021
+DA  - 2021/12/01/
+T2  - Methods for Circular RNAs
+SN  - 1046-2023
+DO  - https://doi.org/10.1016/j.ymeth.2021.03.017
+UR  - https://www.sciencedirect.com/science/article/pii/S1046202321000918
+KW  - Circular RNA
+KW  - Transcript reconstruction
+KW  - Transciptome
+AB  - High-throughput RNA sequencing has enabled the extensive detection of circular RNAs (circRNAs) in eukaryotic organisms. However, most circRNAs are derived from exonic regions and possess sequences that are highly overlapped to their cognate linear mRNAs, which makes the reconstruction of the internal structure and full-length circular transcripts a challenging aspect in circRNA studies. To solve this problem, we provide a step-by-step protocol for the full-length reconstruction of circRNAs using CIRI-full and CIRI-long in Illumina and Nanopore RNA-seq libraries. By combining experimental and computational methods, we are able to effectively characterize the full-length landscape of circRNAs, which provide an important basis to explore the biogenesis and biological function of circRNAs.
+ER  - 

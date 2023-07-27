@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Gao, Yuan
+AU  - Wang, Jinfeng
+AU  - Zheng, Yi
+AU  - Zhang, Jinyang
+AU  - Chen, Shuai
+AU  - Zhao, Fangqing
+PY  - 2016
+DA  - 2016/06/28
+TI  - Comprehensive identification of internal structure and alternative splicing events in circular RNAs
+JO  - Nature Communications
+SP  - 12060
+VL  - 7
+IS  - 1
+AB  - Although previous studies demonstrated circular RNAs (circRNAs) does not exclusively comprise mRNA exons, no study has extensively explored their internal structure. By combining an algorithm with long-read sequencing data and experimental validation, we, for the first time, comprehensively investigate internal components of circRNAs in 10 human cell lines and 62 fruit fly samples, and reveal the prevalence of alternative splicing (AS) events within circRNAs. Significantly, a large proportion of circRNA AS exons can hardly be detected in mRNAs and are enriched with binding sites of distinct splicing factors from those enriched in mRNA exons. We find that AS events in circRNAs have a preference towards nucleus localization and exhibit tissue- and developmental stage-specific expression patterns. This study suggests an independent regulation on the biogenesis or decay of AS events in circRNAs and the identified circular AS isoforms provide targets for future studies on circRNA formation and function.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/ncomms12060
+DO  - 10.1038/ncomms12060
+ID  - Gao2016
+ER  - 

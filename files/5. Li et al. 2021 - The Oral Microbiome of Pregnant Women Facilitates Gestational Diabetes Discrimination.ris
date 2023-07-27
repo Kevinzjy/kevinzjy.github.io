@@ -1,0 +1,34 @@
+TY  - JOUR
+T1  - The oral microbiome of pregnant women facilitates gestational diabetes discrimination
+AU  - Li, Xiaoqing
+AU  - Zheng, Jiayong
+AU  - Ma, Xiuling
+AU  - Zhang, Bing
+AU  - Zhang, Jinyang
+AU  - Wang, Wenhuan
+AU  - Sun, Congcong
+AU  - Wang, Yeping
+AU  - Zheng, Jianqiong
+AU  - Chen, Haiying
+AU  - Tao, Jiejing
+AU  - Wang, Hai
+AU  - Zhang, Fengyi
+AU  - Wang, Jinfeng
+AU  - Zhang, Hongping
+JO  - Journal of Genetics and Genomics
+VL  - 48
+IS  - 1
+SP  - 32
+EP  - 39
+PY  - 2021
+DA  - 2021/01/20/
+SN  - 1673-8527
+DO  - https://doi.org/10.1016/j.jgg.2020.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1673852721000023
+KW  - Gestational diabetes mellitus
+KW  - Oral microbiome
+KW  - Saliva
+KW  - Dental plaque
+KW  - Classification model
+AB  - The oral microbiota plays an important role in the development of various diseases, whereas its association with gestational diabetes mellitus (GDM) remains largely unclear. The aim of this study is to identify biomarkers from the oral microbiota of GDM patients by analyzing the microbiome of the saliva and dental plaque samples of 111 pregnant women. We find that the microbiota of both types of oral samples in GDM patients exhibits differences and significantly varies from that of patients with periodontitis or dental caries. Using bacterial biomarkers from the oral microbiota, GDM classification models based on support vector machine and random forest algorithms are constructed. The area under curve (AUC) value of the classification model constructed by combination of Lautropia and Neisseria in dental plaque and Streptococcus in saliva reaches 0.83, and the value achieves a maximum value of 0.89 by adding clinical features. These findings suggest that certain bacteria in either saliva or dental plaque can effectively distinguish women with GDM from healthy pregnant women, which provides evidence of oral microbiome as an informative source for developing noninvasive biomarkers of GDM.
+ER  - 

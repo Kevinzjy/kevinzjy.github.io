@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Wu, Wanying
+AU  - Zhang, Jinyang
+AU  - Cao, Xiaofei
+AU  - Cai, Zhengyi
+AU  - Zhao, Fangqing
+PY  - 2022
+DA  - 2022/06/10
+TI  - Exploring the cellular landscape of circular RNAs using full-length single-cell RNA sequencing
+JO  - Nature Communications
+SP  - 3242
+VL  - 13
+IS  - 1
+AB  - Previous studies have demonstrated the highly specific expression of circular RNAs (circRNAs) in different tissues and organisms, but the cellular architecture of circRNA has never been fully characterized. Here, we present a collection of 171 full-length single-cell RNA-seq datasets to explore the cellular landscape of circRNAs in human and mouse tissues. Through large-scale integrative analysis, we identify a total of 139,643 human and 214,747 mouse circRNAs in these scRNA-seq libraries. We validate the detected circRNAs with the integration of 11 bulk RNA-seq based resources, where 216,602 high-confidence circRNAs are uniquely detected in the single-cell cohort. We reveal the cell-type-specific expression pattern of circRNAs in brain samples, developing embryos, and breast tumors. We identify the uniquely expressed circRNAs in different cell types and validate their performance in tumor-infiltrating immune cell composition deconvolution. This study expands our knowledge of circRNA expression to the single-cell level and provides a useful resource for exploring circRNAs at this unprecedented resolution.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-022-30963-8
+DO  - 10.1038/s41467-022-30963-8
+ID  - Wu2022
+ER  - 

@@ -1,0 +1,47 @@
+TY  - JOUR
+AU  - Vromman, Marieke
+AU  - Anckaert, Jasper
+AU  - Bortoluzzi, Stefania
+AU  - Buratin, Alessia
+AU  - Chen, Chia-Ying
+AU  - Chu, Qinjie
+AU  - Chuang, Trees-Juen
+AU  - Dehghannasiri, Roozbeh
+AU  - Dieterich, Christoph
+AU  - Dong, Xin
+AU  - Flicek, Paul
+AU  - Gaffo, Enrico
+AU  - Gu, Wanjun
+AU  - He, Chunjiang
+AU  - Hoffmann, Steve
+AU  - Izuogu, Osagie
+AU  - Jackson, Michael S.
+AU  - Jakobi, Tobias
+AU  - Lai, Eric C.
+AU  - Nuytens, Justine
+AU  - Salzman, Julia
+AU  - Santibanez-Koref, Mauro
+AU  - Stadler, Peter
+AU  - Thas, Olivier
+AU  - Vanden Eynde, Eveline
+AU  - Verniers, Kimberly
+AU  - Wen, Guoxia
+AU  - Westholm, Jakub
+AU  - Yang, Li
+AU  - Ye, Chu-Yu
+AU  - Yigit, Nurten
+AU  - Yuan, Guo-Hua
+AU  - Zhang, Jinyang
+AU  - Zhao, Fangqing
+AU  - Vandesompele, Jo
+AU  - Volders, Pieter-Jan
+PY  - 2023
+DA  - 2023/07/13
+TI  - Large-scale benchmarking of circRNA detection tools reveals large differences in sensitivity but not in precision
+JO  - Nature Methods
+AB  - The detection of circular RNA molecules (circRNAs) is typically based on short-read RNA sequencing data processed using computational tools. Numerous such tools have been developed, but a systematic comparison with orthogonal validation is missing. Here, we set up a circRNA detection tool benchmarking study, in which 16 tools detected more than 315,000 unique circRNAs in three deeply sequenced human cell types. Next, 1,516 predicted circRNAs were validated using three orthogonal methods. Generally, tool-specific precision is high and similar (median of 98.8%, 96.3% and 95.5% for qPCR, RNase R and amplicon sequencing, respectively) whereas the sensitivity and number of predicted circRNAs (ranging from 1,372 to 58,032) are the most significant differentiators. Of note, precision values are lower when evaluating low-abundance circRNAs. We also show that the tools can be used complementarily to increase detection sensitivity. Finally, we offer recommendations for future circRNA detection and validation.
+SN  - 1548-7105
+UR  - https://doi.org/10.1038/s41592-023-01944-6
+DO  - 10.1038/s41592-023-01944-6
+ID  - Vromman2023
+ER  - 

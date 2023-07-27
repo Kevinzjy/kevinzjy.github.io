@@ -1,0 +1,26 @@
+Provider: Silverchair
+Database: Oxford University Press
+Content: text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Gao, Yuan
+AU  - Zhang, Jinyang
+AU  - Zhao, Fangqing
+T1  - Circular RNA identification based on multiple seed matching
+PY  - 2018
+Y1  - 2018/09/28
+DO  - 10.1093/bib/bbx014
+JO  - Briefings in Bioinformatics
+JA  - Brief Bioinform
+VL  - 19
+IS  - 5
+SP  - 803
+EP  - 810
+SN  - 1477-4054
+AB  - Computational detection methods have been widely used in studies on the biogenesis and the function of circular RNAs (circRNAs). However, all of the existing tools showed disadvantages on certain aspects of circRNA detection. Here, we propose an improved multithreading detection tool, CIRI2, which used an adapted maximum likelihood estimation based on multiple seed matching to identify back-spliced junction reads and to filter false positives derived from repetitive sequences and mapping errors. We established objective assessment criteria based on real data from RNase R-treated samples and systematically compared 10 circular detection tools, which demonstrated that CIRI2 outperformed its previous version CIRI and all other widely used tools, featured with remarkably balanced sensitivity, reliability, duration and RAM usage.
+Y2  - 7/27/2023
+UR  - https://doi.org/10.1093/bib/bbx014
+ER  - 
+
+
+

@@ -1,0 +1,70 @@
+   
+%A Deshpande,Dhrithi 
+%A Chhugani,Karishma 
+%A Chang,Yutong 
+%A Karlsberg,Aaron 
+%A Loeffler,Caitlin 
+%A Zhang,Jinyang 
+%A Muszyńska,Agata 
+%A Munteanu,Viorel 
+%A Yang,Harry 
+%A Rotman,Jeremy 
+%A Tao,Laura 
+%A Balliu,Brunilda 
+%A Tseng,Elizabeth 
+%A Eskin,Eleazar 
+%A Zhao,Fangqing 
+%A Mohammadi,Pejman 
+%A P. Łabaj,Paweł 
+%A Mangul,Serghei 
+	
+%D 2023      
+	
+%J Frontiers in Genetics     
+	
+%C   
+   
+%F    
+	
+%G English    
+	
+%K RNA-Seq - RNA sequencing,sequencing technologies,read alignment,differential expression (DE),Transcriptome quantification,high-throughput sequencing,bioinformatics  
+	
+%Q    
+	
+%R 10.3389/fgene.2023.997383
+	
+%W     
+	
+%L     
+	
+%M     
+	
+%P    
+	
+%7     
+	
+%8 2023-March-13    
+	
+%9 Review    
+
+	
+%#     
+	
+%! RNA Seq - exemplar technology
+	
+%*     
+	
+%<     
+	
+%T RNA-seq data science: From raw data to effective interpretation  
+	
+%U https://www.frontiersin.org/articles/10.3389/fgene.2023.997383    
+	
+%V 14       
+	  
+%0 JOURNAL ARTICLE
+	
+%@ 1664-8021   
+
+%X RNA sequencing (RNA-seq) has become an exemplary technology in modern biology and clinical science. Its immense popularity is due in large part to the continuous efforts of the bioinformatics community to develop accurate and scalable computational tools to analyze the enormous amounts of transcriptomic data that it produces. RNA-seq analysis enables genes and their corresponding transcripts to be probed for a variety of purposes, such as detecting novel exons or whole transcripts, assessing expression of genes and alternative transcripts, and studying alternative splicing structure. It can be a challenge, however, to obtain meaningful biological signals from raw RNA-seq data because of the enormous scale of the data as well as the inherent limitations of different sequencing technologies, such as amplification bias or biases of library preparation. The need to overcome these technical challenges has pushed the rapid development of novel computational tools, which have evolved and diversified in accordance with technological advancements, leading to the current myriad of RNA-seq tools. These tools, combined with the diverse computational skill sets of biomedical researchers, help to unlock the full potential of RNA-seq. The purpose of this review is to explain basic concepts in the computational analysis of RNA-seq data and define discipline-specific jargon. 

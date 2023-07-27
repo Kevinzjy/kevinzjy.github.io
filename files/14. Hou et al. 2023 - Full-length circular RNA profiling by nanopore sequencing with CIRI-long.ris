@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Hou, Lingling
+AU  - Zhang, Jinyang
+AU  - Zhao, Fangqing
+PY  - 2023
+DA  - 2023/06/01
+TI  - Full-length circular RNA profiling by nanopore sequencing with CIRI-long
+JO  - Nature Protocols
+SP  - 1795
+EP  - 1813
+VL  - 18
+IS  - 6
+AB  - Circular RNAs (circRNAs) have important roles in regulating developmental processes and disease progression. As most circRNA sequences are highly similar to their cognate linear transcripts, the current short-read sequencing-based methods rely on the back-spliced junction signal for distinguishing circular and linear reads, which does not allow circRNAs’ full-length structure to be effectively reconstructed. Here we describe a long-read sequencing-based protocol, CIRI-long, for the detection of full-length circular RNAs. The CIRI-long protocol combines rolling circular reverse transcription and nanopore sequencing to capture full-length circRNA sequences. After poly(A) tailing, RNase R treatment, and size selection of polymerase chain reaction products, CIRI-long achieves an increased percentage (6%) of circular reads in the constructed library, which is 20-fold higher compared with previous Illumina-based strategies. This method can be applied in cell lines or tissue samples, enabling accurate detection of full-length circRNAs in the range of 100–3,000 bp. The entire protocol can be completed in 1 d, and can be scaled up for large-scale analysis using the nanopore barcoding kit and PromethION sequencing device. CIRI-long can serve as an effective and user-friendly protocol for characterizing full-length circRNAs, generating direct and convincing evidence for the existence of detected circRNAs. The analytical pipeline offers convenient functions for identification of full-length circRNA isoforms and integration of multiple datasets. The assembled full-length transcripts and their splicing patterns provide indispensable information to explore the biological function of circRNAs.
+SN  - 1750-2799
+UR  - https://doi.org/10.1038/s41596-023-00815-w
+DO  - 10.1038/s41596-023-00815-w
+ID  - Hou2023
+ER  - 

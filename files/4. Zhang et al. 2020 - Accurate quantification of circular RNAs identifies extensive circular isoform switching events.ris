@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Jinyang
+AU  - Chen, Shuai
+AU  - Yang, Jingwen
+AU  - Zhao, Fangqing
+PY  - 2020
+DA  - 2020/01/03
+TI  - Accurate quantification of circular RNAs identifies extensive circular isoform switching events
+JO  - Nature Communications
+SP  - 90
+VL  - 11
+IS  - 1
+AB  - Detection and quantification of circular RNAs (circRNAs) face several significant challenges, including high false discovery rate, uneven rRNA depletion and RNase R treatment efficiency, and underestimation of back-spliced junction reads. Here, we propose a novel algorithm, CIRIquant, for accurate circRNA quantification and differential expression analysis. By constructing pseudo-circular reference for re-alignment of RNA-seq reads and employing sophisticated statistical models to correct RNase R treatment biases, CIRIquant can provide more accurate expression values for circRNAs with significantly reduced false discovery rate. We further develop a one-stop differential expression analysis pipeline implementing two independent measures, which helps unveil the regulation of competitive splicing between circRNAs and their linear counterparts. We apply CIRIquant to RNA-seq datasets of hepatocellular carcinoma, and characterize two important groups of linear-circular switching and circular transcript usage switching events, which demonstrate the promising ability to explore extensive transcriptomic changes in liver tumorigenesis.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-019-13840-9
+DO  - 10.1038/s41467-019-13840-9
+ID  - Zhang2020
+ER  - 
