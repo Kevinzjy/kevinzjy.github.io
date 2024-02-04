@@ -71,7 +71,7 @@ Publications
 
 # 2024
 
-- Zhou, Z.#, **Zhang, J.#**, Zheng, X., Pan, Z., Zhao, F.\*, Gao, Y\*. (2024) CIRI-deep Enables Single-cell and Spatial Transcriptomic Analysis of Circular RNAs with Deep Learning. ***Advanced Science***, 10.1002/advs.202308115 [[DOI]](https://doi.org/10.1002/advs.202308115) [[PDF]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.pdf) [[Citation]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.ris) [[GitHub]](https://github.com/gyjames/CIRI-deep)
+- Zhou, Z.#, **Zhang, J.#**, Zheng, X., Pan, Z., Zhao, F.\*, Gao, Y\*. (2024) CIRI-deep Enables Single-cell and Spatial Transcriptomic Analysis of Circular RNAs with Deep Learning. ***Advanced Science***, 10.1002/advs.202308115 (**IF=15.1**) [[DOI]](https://doi.org/10.1002/advs.202308115) [[PDF]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.pdf) [[Citation]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.ris) [[GitHub]](https://github.com/gyjames/CIRI-deep)
 
 # 2021-2023
 
