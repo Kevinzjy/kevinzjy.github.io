@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Zhang, Jinyang
+AU  - Hou, Lingling
+AU  - Ma, Lianjun
+AU  - Cai, Zhengyi
+AU  - Ye, Shujun
+AU  - Liu, Yang
+AU  - Ji, Peifeng
+AU  - Zuo, Zhenqiang
+AU  - Zhao, Fangqing
+PY  - 2024
+DA  - 2024/10/23
+TI  - Real-time and programmable transcriptome sequencing with PROFIT-seq
+JO  - Nature Cell Biology
+AB  - The high diversity and complexity of the eukaryotic transcriptome make it difficult to effectively detect specific transcripts of interest. Current targeted RNA sequencing methods often require complex pre-sequencing enrichment steps, which can compromise the comprehensive characterization of the entire transcriptome. Here we describe programmable full-length isoform transcriptome sequencing (PROFIT-seq), a method that enriches target transcripts while maintaining unbiased quantification of the whole transcriptome. PROFIT-seq employs combinatorial reverse transcription to capture polyadenylated, non-polyadenylated and circular RNAs, coupled with a programmable control system that selectively enriches target transcripts during sequencing. This approach achieves over 3-fold increase in effective data yield and reduces the time required for detecting specific pathogens or key mutations by 75%. We applied PROFIT-seq to study colorectal polyp development, revealing the intricate relationship between host immune responses and bacterial infection. PROFIT-seq offers a powerful tool for accurate and efficient sequencing of target transcripts while preserving overall transcriptome quantification, with broad applications in clinical diagnostics and targeted enrichment scenarios.
+SN  - 1476-4679
+UR  - https://doi.org/10.1038/s41556-024-01537-1
+DO  - 10.1038/s41556-024-01537-1
+ID  - Zhang2024
+ER  - 
