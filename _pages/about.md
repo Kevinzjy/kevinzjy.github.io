@@ -12,7 +12,7 @@ redirect_from:
 Personal information
 ======
 
-* Omics Technology & Artificial Intelligence Lab
+* Omics Technology & Artificial Intelligence Lab, Institute of Zoology
 * Chinese Academy of Sciences
 * No.1 Beichen West Road
 * Chaoyang District, Beijing, 100101, P.R. China
@@ -93,16 +93,3 @@ All Publications
 - Ji, P.#, Wu, W.#, Chen, S.#, Zheng, Y., Zhou, L., **Zhang, J.**, Cheng, H., Yan, J., Zhang, S., Yang, P., & Zhao, F. (2019). Expanded Expression Landscape and Prioritization of Circular RNAs in Mammals. ***Cell Reports***, 26(12), 3444–3460.e5. (**IF=8.8**) [[DOI]](https://doi.org/10.1016/j.celrep.2019.02.078)[[PDF]](/files/3.%20Ji%20et%20al.%202019%20-%20Expanded%20Expression%20Landscape%20and%20Prioritization%20of%20Circular%20RNAs%20in%20Mammals.pdf) [[Citation]](/files/3.%20Ji%20et%20al.%202019%20-%20Expanded%20Expression%20Landscape%20and%20Prioritization%20of%20Circular%20RNAs%20in%20Mammals.ris)
 - Gao, Y., **Zhang, J.**, & Zhao, F. (2018). Circular RNA identification based on multiple seed matching. ***Briefings in Bioinformatics***, 19(5), 803–810. (**IF=9.5**) [[DOI]](https://doi.org/10.1093/bib/bbx014)[[PDF]](/files/2.%20Gao%20et%20al.%202018%20-%20Circular%20RNA%20identification%20based%20on%20multiple%20seed%20matching.pdf) [[Citation]](/files/2.%20Gao%20et%20al.%202018%20-%20Circular%20RNA%20identification%20based%20on%20multiple%20seed%20matching.ris)
 - Gao, Y.#, Wang, J.#, Zheng, Y.#, **Zhang, J.**, Chen, S., & Zhao, F. (2016). Comprehensive identification of internal structure and alternative splicing events in circular RNAs. ***Nature Communications***, 7, 12060. (**IF=16.6**) [[DOI]](https://doi.org/10.1038/ncomms12060)[[PDF]](/files/1.%20Gao%20et%20al.%202016%20-%20Comprehensive%20identification%20of%20internal%20structure%20and%20alternative%20splicing%20events%20in%20circular%20RNAs.pdf) [[Citation]](/files/1.%20Gao%20et%20al.%202016%20-%20Comprehensive%20identification%20of%20internal%20structure%20and%20alternative%20splicing%20events%20in%20circular%20RNAs.ris)
-
-Invited Talks & Conference Presentations
-======
-* 2024 The 1st National Genome Informatics Conference. Apr 17-18th. Wuhan, China
-* 2023 The 10th forum of Young Bioinformatics PI (YBP). Dec 13-14th. Shanghai, China
-* 2021 The 11th youth forum of national symposium of Chinese RNA society. July 2-5th. Dalian, China
-* 2019 The 1st National Postgraduate Forum of Basic Medicine held by the Savaid Medical School, University of Chinese Academy of Sciences. November 30th. Beijing, China
-
-Journal Reviewer
-======
-
-- Senior editor of ***iMeta***
-- Reviewer of ***Nucleic Acids Research***,  ***RNA Biology***, ***Briefings in Bioinformatics***, ***Genomics Proteomics and Bioinformatics***, ***BMC Genomics***, ***mLife***, ***Integrative Zoology***, ***生物工程学报***
