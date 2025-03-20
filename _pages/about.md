@@ -12,14 +12,14 @@ redirect_from:
 Personal information
 ======
 
-* Omics Technology & Artificial Intelligence Lab, Institute of Zoology
+* Omics & AI Lab, Institute of Zoology
 * Chinese Academy of Sciences
 * No.1 Beichen West Road
 * Chaoyang District, Beijing, 100101, P.R. China
 
 Work experience
 ======
-* 2023-    , <b>Associate Research Fellow</b>, Institute of Zoology, CAS, China
+* 2023-    , <b>Research Associate</b>, Institute of Zoology, CAS, China
 * 2021-2023, <b>Post-Doctoral Associate</b>, Beijing Institutes of Life Science, CAS, China
 
 Education and Training
@@ -49,18 +49,22 @@ Selected Publications
    - Featured in [2020 Top 10 Advances in Bioinformatics in China, Genomics, Proteomics & Bioinformatics](http://gpb.big.ac.cn/news/1014)
 4. Wu, W., Zhao, F.\*, **Zhang, J.\*** (2023). circAtlas 3.0: a gateway to 3 million curated vertebrate circular RNAs through a standardized nomenclature scheme. ***Nucleic Acids Research***, 52, D52-D60 (**IF=14.9**)
    - Recommended in [***Nature*** 635, 511-513 (2024)](https://www.nature.com/articles/d41586-024-03683-w).
-5.	**Zhang J** & Zhao F. (2021). Characterizing circular RNAs using nanopore sequencing. ***Trends in Biochemical Sciences***, 46, 785–786 (**IF=13.8**)
+5.	**Zhang J** & Zhao F. (2025). Circular RNA discovery with emerging sequencing and deep learning technologies. ***Nature Genetics***, In press (**IF=31.8**)
 
 All Publications
 ======
 
 **Web of Science**: [AFS-9879-2022](https://www.webofscience.com/wos/author/record/AFS-9879-2022)
 
+# 2025
+- **Zhang, J.\*** & Zhao, F\*. (2025) Circular RNA discovery with emerging sequencing and deep learning technologies. ***Nature Genetics***, In press (**IF=31.8**)
+- Hu, B.#, He, R.#, Pang, K.#, Wang, G.#, Wang, N., Zhu, W., Sui, X., Teng, H., Liu, T., Zhu, J., Jiang, Z., **Zhang, J.**, Zuo, Z., Wang, W., Ji, P.\*, Zhao, F.\* (2025). High-resolution spatially resolved proteomics of complex tissues based on microfluidics and transfer learning. ***Cell*** [[DOI]](https://doi.org/10.1016/j.cell.2024.12.023) [[PDF]](/files/21.%20Hu%20et%20al.%202025%20-%20High-resolution%20spatially%20resolved%20proteomics%20of%20complex%20tissues%20based%20on%20microfluidics%20and%20transfer%20learning.pdf) [[Citation]](/files/21.%20Hu%20et%20al.%202025%20-%20High-resolution%20spatially%20resolved%20proteomics%20of%20complex%20tissues%20based%20on%20microfluidics%20and%20transfer%20learning.ris)
+
 # 2024
 
-- Cao, X.#, Cai, Z.#, **Zhang, J.** & Zhao, F. (2024). Engineering circular RNA medicines. ***Nature Reviews Bioengineering*** [[DOI]](https://doi.org/10.1038/s44222-024-00259-1) [[PDF]](/files/20.Cao%20et%20al.%202024%20-%20Engineering%20circular%20RNA%20medicines.pdf) [[Citation]](/files/20.Cao%20et%20al.%202024%20-%20Engineering%20circular%20RNA%20medicines.ris)
-- **Zhang, J.#**, Hou, L.#, Ma, L.#, Cai, Z., Ye, S., Liu, Y., Ji, P., Zuo, Z., & Zhao, F. (2024) Real-time and programmable transcriptome sequencing with PROFIT-seq. ***Nature Cell Biology*** (**IF=17.3**) [[DOI]](https://doi.org/10.1038/s41556-024-01537-1) [[PDF]](/files/19.%20Zhang%20et%20al.%202024%20-%20Real-time%20and%20programmable%20transcriptome%20sequencing%20with%20PROFIT-seq-seq.pdf) [[Citation]](/files/19.%20Zhang%20et%20al.%202024%20-%20Real-time%20and%20programmable%20transcriptome%20sequencing%20with%20PROFIT-seq-seq.ris) [[GitHub]](https://github.com/bioinfo-biols/PROFIT-seq) [[Protocols.io]](https://www.protocols.io/view/real-time-and-programmable-transcriptome-sequencin-5jyl8p19rg2w/v1) [[Source data]](https://doi.org/10.5281/zenodo.12697812)
-- Zhou, Z.#, **Zhang, J.#**, Zheng, X., Pan, Z., Zhao, F.\*, Gao, Y\*. (2024) CIRI-deep Enables Single-cell and Spatial Transcriptomic Analysis of Circular RNAs with Deep Learning. ***Advanced Science***, 11, e2308115 (**IF=14.3**) [[DOI]](https://doi.org/10.1002/advs.202308115) [[PDF]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.pdf) [[Citation]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.ris) [[GitHub]](https://github.com/gyjames/CIRI-deep) [[Website]](https://ngdc.cncb.ac.cn/bit/ciriDeep)
+- Cao, X.#, Cai, Z.#, **Zhang, J.** & Zhao, F. (2024). Engineering circular RNA medicines. ***Nature Reviews Bioengineering*** [[DOI]](https://doi.org/10.1038/s44222-024-00259-1) [[PDF]](/files/20.%20Cao%20et%20al.%202024%20-%20Engineering%20circular%20RNA%20medicines.pdf) [[Citation]](/files/20.%20Cao%20et%20al.%202024%20-%20Engineering%20circular%20RNA%20medicines.ris)
+- **Zhang, J.#**, Hou, L.#, Ma, L.#, Cai, Z., Ye, S., Liu, Y., Ji, P., Zuo, Z., & Zhao, F. (2024) Real-time and programmable transcriptome sequencing with PROFIT-seq. ***Nature Cell Biology***, 26, 2183-2194 (**IF=17.3**) [[DOI]](https://doi.org/10.1038/s41556-024-01537-1) [[PDF]](/files/19.%20Zhang%20et%20al.%202024%20-%20Real-time%20and%20programmable%20transcriptome%20sequencing%20with%20PROFIT-seq-seq.pdf) [[Citation]](/files/19.%20Zhang%20et%20al.%202024%20-%20Real-time%20and%20programmable%20transcriptome%20sequencing%20with%20PROFIT-seq-seq.ris) [[GitHub]](https://github.com/bioinfo-biols/PROFIT-seq) [[Protocols.io]](https://www.protocols.io/view/real-time-and-programmable-transcriptome-sequencin-5jyl8p19rg2w/v1) [[Source data]](https://doi.org/10.5281/zenodo.12697812)
+- Zhou, Z.#, **Zhang, J.#**, Zheng, X., Pan, Z., Zhao, F.\*, Gao, Y.\* (2024) CIRI-deep Enables Single-cell and Spatial Transcriptomic Analysis of Circular RNAs with Deep Learning. ***Advanced Science***, 11, e2308115 (**IF=14.3**) [[DOI]](https://doi.org/10.1002/advs.202308115) [[PDF]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.pdf) [[Citation]](/files/18.%20Zhou%20et%20al.%202024%20-%20CIRI‐Deep%20Enables%20Single‐Cell%20and%20Spatial%20Transcriptomic%20Analysis%20of%20Circular%20RNAs%20with%20Deep%20Learning.ris) [[GitHub]](https://github.com/gyjames/CIRI-deep) [[Website]](https://ngdc.cncb.ac.cn/bit/ciriDeep)
 
 # 2023
 

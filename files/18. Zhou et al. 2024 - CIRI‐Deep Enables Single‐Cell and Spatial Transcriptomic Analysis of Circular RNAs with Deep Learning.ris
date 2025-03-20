@@ -7,17 +7,17 @@ AU  - Zheng, Xin
 AU  - Pan, Zhicheng
 AU  - Zhao, Fangqing
 AU  - Gao, Yuan
-Y1  - 2024/02/02
+Y1  - 2024/04/01
 PY  - 2024
-DA  - 2024/02/02
+DA  - 2024/04/01
 DO  - https://doi.org/10.1002/advs.202308115
 T2  - Advanced Science
 JF  - Advanced Science
 JO  - Advanced Science
 JA  - Adv. Sci.
 SP  - 2308115
-VL  - n/a
-IS  - n/a
+VL  - 11
+IS  - 14
 KW  - circular RNA
 KW  - deep learning
 KW  - single cell RNA-seq
@@ -26,6 +26,6 @@ KW  - splicing
 PB  - John Wiley & Sons, Ltd
 SN  - 2198-3844
 UR  - https://doi.org/10.1002/advs.202308115
-Y2  - 2024/02/03
+Y2  - 2025/01/26
 N2  - Abstract Circular RNAs (circRNAs) are a crucial yet relatively unexplored class of transcripts known for their tissue- and cell-type-specific expression patterns. Despite the advances in single-cell and spatial transcriptomics, these technologies face difficulties in effectively profiling circRNAs due to inherent limitations in circRNA sequencing efficiency. To address this gap, a deep learning model, CIRI-deep, is presented for comprehensive prediction of circRNA regulation on diverse types of RNA-seq data. CIRI-deep is trained on an extensive dataset of 25 million high-confidence circRNA regulation events and achieved high performances on both test and leave-out data, ensuring its accuracy in inferring differential events from RNA-seq data. It is demonstrated that CIRI-deep and its adapted version enable various circRNA analyses, including cluster- or region-specific circRNA detection, BSJ ratio map visualization, and trans and cis feature importance evaluation. Collectively, CIRI-deep's adaptability extends to all major types of RNA-seq datasets including single-cell and spatial transcriptomic data, which will undoubtedly broaden the horizons of circRNA research.
 ER  - 
