@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Zhang, Jinyang
+AU  - Zhao, Fangqing
+PY  - 2025
+DA  - 2025/04/17
+TI  - Circular RNA discovery with emerging sequencing and deep learning technologies
+JO  - Nature Genetics
+AB  - Circular RNA (circRNA) represents a type of RNA molecule characterized by a closed-loop structure that is distinct from linear RNA counterparts. Recent studies have revealed the emerging role of these circular transcripts in gene regulation and disease pathogenesis. However, their low expression levels and high sequence similarity to linear RNAs present substantial challenges for circRNA detection and characterization. Recent advances in long-read and single-cell RNA sequencing technologies, coupled with sophisticated deep learning-based algorithms, have revolutionized the investigation of circRNAs at unprecedented resolution and scale. This Review summarizes recent breakthroughs in circRNA discovery, characterization and functional analysis algorithms. We also discuss the challenges associated with integrating large-scale circRNA sequencing data and explore the potential future development of artificial intelligence (AI)-driven algorithms to unlock the full potential of circRNA research in biomedical applications.
+SN  - 1546-1718
+UR  - https://doi.org/10.1038/s41588-025-02157-7
+DO  - 10.1038/s41588-025-02157-7
+ID  - Zhang2025
+ER  - 

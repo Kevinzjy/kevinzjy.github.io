@@ -12,7 +12,8 @@ redirect_from:
 Personal information
 ======
 
-* Omics & AI Lab, Institute of Zoology
+* Omics & AI Lab
+* State Key Laboratory of Animal Biodiversity Conservation and Integrated Pest Management, Institute of Zoology
 * Chinese Academy of Sciences
 * No.1 Beichen West Road
 * Chaoyang District, Beijing, 100101, P.R. China
@@ -49,7 +50,7 @@ Selected Publications
    - Featured in [2020 Top 10 Advances in Bioinformatics in China, Genomics, Proteomics & Bioinformatics](http://gpb.big.ac.cn/news/1014)
 4. Wu, W., Zhao, F.\*, **Zhang, J.\*** (2023). circAtlas 3.0: a gateway to 3 million curated vertebrate circular RNAs through a standardized nomenclature scheme. ***Nucleic Acids Research***, 52, D52-D60 (**IF=14.9**)
    - Recommended in [***Nature*** 635, 511-513 (2024)](https://www.nature.com/articles/d41586-024-03683-w).
-5.	**Zhang J** & Zhao F. (2025). Circular RNA discovery with emerging sequencing and deep learning technologies. ***Nature Genetics***, In press (**IF=31.8**)
+5.	**Zhang, J.\*** & Zhao, F\*. (2025). Circular RNA discovery with emerging sequencing and deep learning technologies. ***Nature Genetics***, In press (**IF=31.8**)
 
 All Publications
 ======
@@ -57,8 +58,8 @@ All Publications
 **Web of Science**: [AFS-9879-2022](https://www.webofscience.com/wos/author/record/AFS-9879-2022)
 
 # 2025
-- **Zhang, J.\*** & Zhao, F\*. (2025) Circular RNA discovery with emerging sequencing and deep learning technologies. ***Nature Genetics***, In press (**IF=31.8**)
-- Hu, B.#, He, R.#, Pang, K.#, Wang, G.#, Wang, N., Zhu, W., Sui, X., Teng, H., Liu, T., Zhu, J., Jiang, Z., **Zhang, J.**, Zuo, Z., Wang, W., Ji, P.\*, Zhao, F.\* (2025). High-resolution spatially resolved proteomics of complex tissues based on microfluidics and transfer learning. ***Cell*** [[DOI]](https://doi.org/10.1016/j.cell.2024.12.023) [[PDF]](/files/21.%20Hu%20et%20al.%202025%20-%20High-resolution%20spatially%20resolved%20proteomics%20of%20complex%20tissues%20based%20on%20microfluidics%20and%20transfer%20learning.pdf) [[Citation]](/files/21.%20Hu%20et%20al.%202025%20-%20High-resolution%20spatially%20resolved%20proteomics%20of%20complex%20tissues%20based%20on%20microfluidics%20and%20transfer%20learning.ris)
+- **Zhang, J.\*** & Zhao, F\*. (2025) Circular RNA discovery with emerging sequencing and deep learning technologies. ***Nature Genetics*** (**IF=31.8**) [[DOI]](https://doi.org/10.1038/s41588-025-02157-7) [[PDF]](/files/22.Zhang%20&%20Zhao%202025%20-%20Circular%20RNA%20discovery%20with%20emerging%20sequencing%20and%20deep%20learning%20technologies.pdf) [[Citation]](/files/22.Zhang%20&%20Zhao%202025%20-%20Circular%20RNA%20discovery%20with%20emerging%20sequencing%20and%20deep%20learning%20technologies.ris)
+- Hu, B.#, He, R.#, Pang, K.#, Wang, G.#, Wang, N., Zhu, W., Sui, X., Teng, H., Liu, T., Zhu, J., Jiang, Z., **Zhang, J.**, Zuo, Z., Wang, W., Ji, P.\*, Zhao, F.\* (2025). High-resolution spatially resolved proteomics of complex tissues based on microfluidics and transfer learning. ***Cell***, 188, 1-15 [[DOI]](https://doi.org/10.1016/j.cell.2024.12.023) [[PDF]](/files/21.%20Hu%20et%20al.%202025%20-%20High-resolution%20spatially%20resolved%20proteomics%20of%20complex%20tissues%20based%20on%20microfluidics%20and%20transfer%20learning.pdf) [[Citation]](/files/21.%20Hu%20et%20al.%202025%20-%20High-resolution%20spatially%20resolved%20proteomics%20of%20complex%20tissues%20based%20on%20microfluidics%20and%20transfer%20learning.ris)
 
 # 2024
 
